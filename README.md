@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./signature_darkmode.svg">
+    <img alt="Mayank Kanti" src="./signature_lightmode.svg" width="420">
+  </picture>
+</p>
 
-<!--
-**mayankkanti/mayankkanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Computer Science student interested in Android development, open source, and emerging technologies.<br>
+And a big music enthusiast!
+<br><br>
+<a href="https://www.linkedin.com/in/mayankkanti/">LinkedIn</a>
+ · <a href="https://x.com/mayankkanti_">X</a>
+ · <a href="https://open.spotify.com/user/2ohqn5d4bkz1vcywo6qz1ghha/">Spotify</a>
+<br>
+<br>
+</p>
