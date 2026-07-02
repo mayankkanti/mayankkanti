@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Computer Science student interested in Android development, open source, and emerging technologies.<br>
+Computer Science student interested in emerging technologies.<br>
 And a big music enthusiast!
 <br><br>
 <a href="https://www.linkedin.com/in/mayankkanti/">LinkedIn</a>
